@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D://CheckEfficiency/CheckEfficiency.iml" filepath="D://CheckEfficiency/CheckEfficiency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckEfficiency.iml" filepath="$PROJECT_DIR$/CheckEfficiency.iml" />
     </modules>
   </component>
 </project>
